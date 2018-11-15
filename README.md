@@ -5,7 +5,7 @@ Simple Snapchat-like face filters with Python OpenCV/dlib, for [etos](https://et
 
 Demo Application to play around with Snapchat-alike filters like hat, moustache and glasses automatic in-face superposition in real time.
 
-![](media/mo1.jpg)
+<img src="media/mo1.jpg" alt="drawing" width="400"/>
 
 The Dlib implementation of this app uses a [Histogram of Oriented Gradients (HOG)](https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients) feature combined with a linear classifier, an image pyramid, and sliding window detection scheme to detect faces. Then it finds the 68 facial landmarks using an Ensemble of Regression Trees described in the paper [One Millisecond Face Alignment with an Ensemble of Regression Trees](https://pdfs.semanticscholar.org/d78b/6a5b0dcaa81b1faea5fb0000045a62513567.pdf).
 
