@@ -1,7 +1,7 @@
 
 ### etos simple filter
 
-Simple Snapchat-like face filters with Python OpenCV/dlib, for [etos](https://etos.world) ecosystem.
+Simple Snapchat-like face filters with Python OpenCV/dlib.
 
 Demo Application to play around with Snapchat-alike filters like hat, moustache and glasses automatic in-face superposition in real time.
 
